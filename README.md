@@ -9,6 +9,9 @@ For basic construction of coordinates I think we can take the distance based on 
 
 ![image-4](https://user-images.githubusercontent.com/118219943/209806073-2bf28918-61c9-403c-90dc-f695e0b49d89.jpg)
 
+<img width="728" alt="ScreenShot" src="https://user-images.githubusercontent.com/118219943/209809627-a32eed29-ce1c-4f22-b75d-8e9be65d381c.png">
+
+
 Then open file.xyz in VMD and make a .PDB file
 Here a title how to make .PDB file(https://github.com/nikoincc/allatom-polymere-system-in-VMD)
 
